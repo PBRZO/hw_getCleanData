@@ -1,0 +1,9 @@
+Variable description
+activity:  activity labels
+X: combined data set from X_train and X_test
+y: combined data set from y_train and y_test
+subject:  combined data set from subject_train and subject_test
+features:  original headers from features.txt
+activity: the activities like walking etc
+Extract_measurements :  the combined table containing data , subjects and activities
+summary_subject_activity:  data frame with average by subject and activity
